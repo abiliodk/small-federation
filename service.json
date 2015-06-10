@@ -1,0 +1,13 @@
+{
+  "name": "SmallCloud Federation",
+  "description": "Data federation for SmallCloud using WebTorrent",
+  "version": "0.0.1",
+  "author": "Andreas Abilio <andreas@abilio.dk>",
+  "license": "MIT",
+
+  "backend": true,
+  "frontend": "component",
+  "dependencies": {
+    "small-frontend": "^0.0.1"
+  }
+}
